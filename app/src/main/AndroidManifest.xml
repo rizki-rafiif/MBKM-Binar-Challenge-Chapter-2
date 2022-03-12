@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ChallengeChapter2">
         <activity
+            android:name=".Shopee"
+            android:exported="false" />
+        <activity
             android:name=".Gojek"
             android:exported="false" />
         <activity
